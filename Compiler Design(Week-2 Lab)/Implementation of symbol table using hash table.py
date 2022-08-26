@@ -1,3 +1,4 @@
+#Implementation of symbol table using hash table
 class table:
     def __init__(self,address,label):
         self.address=address
